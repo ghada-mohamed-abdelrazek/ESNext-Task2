@@ -21,7 +21,7 @@ ________________________________________________
 
 4-Loop through the array and calculate the area  shapes.
 
-___________________________________
+________________________________________________
 ## Assignment 3
 
 --------Module 1: employee.js---------
@@ -55,6 +55,7 @@ Add employee(s) to an array.
 
 3-Print all employees’ info on Document not console.
 
+________________________________________________
 
 ## Assignment 4
 
@@ -62,6 +63,7 @@ Add employee(s) to an array.
   enable function in sub classes name it move
   while calling it car,bike move to right if car or bike  arrived to right of page it turn to left
 each of them moved by its speed .
+
 
 
 
