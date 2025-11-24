@@ -1,4 +1,6 @@
 ﻿# ESNext-Task2
+ ITI - Frontend &amp; Cross platform track
+
 ## Assignment 1
 1- Create a base class Person with properties: name and age.
 2-Create a subclass Teacher with property subject and method teach().
@@ -60,6 +62,7 @@ Add employee(s) to an array.
   enable function in sub classes name it move
   while calling it car,bike move to right if car or bike  arrived to right of page it turn to left
 each of them moved by its speed .
+
 
 
 
