@@ -1,0 +1,49 @@
+    body {
+        background: #eef2ff;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 20px;
+    }
+
+    #road {
+        width: 90%;
+        height: 200px;
+        border: 4px solid #333;
+        background: #fff;
+        margin: 30px auto;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .vehicle {
+        width: 70px;
+        height: 40px;
+        position: absolute;
+        top: 30%;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        line-height: 40px;
+    }
+
+    #car {
+        background: red;
+        top: 40%;
+    }
+
+    #bike {
+        background: blue;
+        top: 5%;
+    }
+
+    button {
+        padding: 10px 20px;
+        margin: 10px;
+        font-size: 18px;
+        cursor: pointer;
+        border-radius: 6px;
+        border: none;
+    }
+
+    #startBtn { background: green; color: white; }
+    #stopBtn { background: red; color: white; }
